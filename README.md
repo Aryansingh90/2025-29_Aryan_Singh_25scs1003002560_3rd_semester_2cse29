@@ -1,6 +1,6 @@
-# Task 02 - Number Guessing Game
+# Task 01 - Temperature Conversion Program
 
-A Python game using a random number from 1 to 100 and attempt tracking.
+Converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ## Run
 `python main.py`
